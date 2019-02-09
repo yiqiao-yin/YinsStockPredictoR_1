@@ -13,4 +13,4 @@ Information:
 - Encoding: UTF-8
 - LazyData: true
 
-The package is a sample taken from source [Saurav](https://www.analyticsvidhya.com/blog/2017/03/create-packages-r-cran-github/).
+The package is a sample taken from source [SAURAV KAUSHIK, MARCH 22, 2017](https://www.analyticsvidhya.com/blog/2017/03/create-packages-r-cran-github/).
